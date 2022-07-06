@@ -1,0 +1,15 @@
+{
+    "name": "ousseynou/bakelicrudphp",
+    "autoload": {
+        "psr-4": {
+            "Ousseynou\\Bakelicrudphp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ousseynou Laye",
+            "email": "ousseynoulaye17@gmail.com"
+        }
+    ],
+    "require": {}
+}
